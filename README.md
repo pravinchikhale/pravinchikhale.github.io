@@ -1,2 +1,2 @@
-# pravinchikhale.github.io
-Official technical blog site
+# tech-blog
+Source for pravinchikhale.net (Pravin's tech blog)
